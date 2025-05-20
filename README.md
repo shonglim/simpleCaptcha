@@ -1,7 +1,7 @@
 # simpleCaptcha
 
 This git project contains solution to the simple Captcha recognition task. The complete
-reasoning and process behind the provided solution can be seen in the included notebook `solution-approach.ipynb`.
+reasoning process behind the provided solution can be seen in the included notebook `solution-approach.ipynb`.
 
 The solution code is provided in a single python script `solution.py`. A simple test script `test.py` is provided to quickly
 test the solution.
